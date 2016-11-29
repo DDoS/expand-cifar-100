@@ -1,0 +1,7 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"derelict-fi": "~master",
+		"derelict-util": "2.0.6"
+	}
+}

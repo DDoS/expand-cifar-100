@@ -1,0 +1,6 @@
+name "expand-cifar-100"
+description "Expand the CIFAR-100 images to PNGs"
+copyright "Copyright © 2016, Aleksi Sapon"
+authors "Aleksi Sapon"
+targetPath "bin"
+dependency "derelict-fi" version=">=0.0.0"
